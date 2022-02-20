@@ -1,15 +1,7 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to tgpetrica's documentation!
+=====================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
+Note:
 
    This project is under active development.
 
@@ -17,6 +9,28 @@ Contents
 --------
 
 .. toctree::
+   :caption: 1. FP
+   :maxdepth: 1
 
-   usage
-   api
+   fp/introducere
+   fp/macrocomenzi
+   fp/definitii-tipuri-date
+   fp/precompilare-conditionata
+   fp/elemente-limbaj-c
+   fp/tipuri-numerice-de-date
+   fp/instructiuni
+   fp/tipul-char
+   fp/tipul-struct
+   fp/pointeri
+   fp/alocare-dinamica
+   fp/stringuri
+   fp/functii-statice
+   fp/uniuni-tipul-enum
+   fp/compilatoare
+   fp/fisiere
+   fp/functii-cu-lista-variabila-de-argumente
+
+.. toctree::
+   :caption: 2. POO
+   :maxdepth: 2
+   poo/introducere
