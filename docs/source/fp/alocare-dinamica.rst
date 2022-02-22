@@ -26,7 +26,7 @@ Pentru a aloca dinamic in C se folosesc urmatoarele functii: ``malloc``, ``callo
 
 Un pointer care are valoarea ``NULL`` inseamna ca nu retine nicio adresa de memorie.
 
-``callo``c primeste 2 param : primul reprezinta nr de blocuri de memorie ce se doreste 
+``calloc`` primeste 2 param : primul reprezinta nr de blocuri de memorie ce se doreste 
 
 ``calloc`` se potriveste pentru alocare de mamorie pt un vector
 
