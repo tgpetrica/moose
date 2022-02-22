@@ -1,5 +1,5 @@
-Welcome to tgpetrica's documentation!
-=====================================
+Welcome to Moose Project!
+=========================
 
 Note:
 
@@ -12,25 +12,25 @@ Contents
    :caption: 1. FP
    :maxdepth: 1
 
-   fp/introducere
-   fp/macrocomenzi
-   fp/definitii-tipuri-date
-   fp/precompilare-conditionata
-   fp/elemente-limbaj-c
-   fp/tipuri-numerice-de-date
-   fp/instructiuni
-   fp/tipul-char
-   fp/tipul-struct
-   fp/pointeri
-   fp/alocare-dinamica
-   fp/stringuri
-   fp/functii-statice
-   fp/uniuni-tipul-enum
-   fp/compilatoare
-   fp/fisiere
-   fp/functii-cu-lista-variabila-de-argumente
+   fp/introducere.rst
+   fp/macrocomenzi.rst
+   fp/definitii-tipuri-date.rst
+   fp/precompilare-conditionata.rst
+   fp/elemente-limbaj-c.rst
+   fp/tipuri-numerice-de-date.rst
+   fp/instructiuni.rst
+   fp/tipul-char.rst
+   fp/tipul-struct.rst
+   fp/pointeri.rst
+   fp/alocare-dinamica.rst
+   fp/stringuri.rst
+   fp/functii-statice.rst
+   fp/uniuni-tipul-enum.rst
+   fp/compilatoare.rst
+   fp/fisiere.rst
+   fp/functii-cu-lista-variabila-de-argumente.rst
 
 .. toctree::
    :caption: 2. POO
    :maxdepth: 2
-   poo/introducere
+   poo/introducere.rst
