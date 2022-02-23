@@ -29,6 +29,7 @@ Contents
    fp/compilatoare.rst
    fp/fisiere.rst
    fp/functii-cu-lista-variabila-de-argumente.rst
+   fp/test-markdown.md
 
 .. toctree::
    :caption: 2. POO
